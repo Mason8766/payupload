@@ -18,13 +18,15 @@
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "^4.18.2",
+    "favicon": "^0.0.2",
     "firebase": "^10.5.2",
     "firebase-admin": "^11.11.0",
     "hbs": "^4.2.0",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "node-gpsd": "^0.3.4",
-    "puppeteer": "^21.5.2"
+    "puppeteer": "^21.5.2",
+    "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
     "documentation": "14.0.2",
